@@ -1,9 +1,10 @@
 %include	/usr/lib/rpm/macros.php
-%define         _class          Image
-%define         _subclass       IPTC
+%define		_class		Image
+%define		_subclass	IPTC
 %define		_status		stable
 %define		_pearname	%{_class}_%{_subclass}
-Summary:	%{_pearname} - Extract, modify, and save IPTC data
+
+Summary:	%{_pearname} - extract, modify, and save IPTC data
 Summary(pl):	%{_pearname} - wyci±ganie, modyfikowanie i zapisywanie danych IPTC
 Name:		php-pear-%{_pearname}
 Version:	1.0.2
