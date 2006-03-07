@@ -14,6 +14,7 @@ Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
 # Source0-md5:	7095a4abb7cd666f1245c21576683e25
 URL:		http://pear.php.net/package/Image_IPTC/
+BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
 Requires:	php-pear
 BuildArch:	noarch
