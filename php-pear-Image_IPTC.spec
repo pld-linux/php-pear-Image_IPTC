@@ -5,7 +5,7 @@
 %define		_pearname	%{_class}_%{_subclass}
 
 Summary:	%{_pearname} - extract, modify, and save IPTC data
-Summary(pl):	%{_pearname} - wyci眊anie, modyfikowanie i zapisywanie danych IPTC
+Summary(pl.UTF-8):   %{_pearname} - wyci膮ganie, modyfikowanie i zapisywanie danych IPTC
 Name:		php-pear-%{_pearname}
 Version:	1.0.2
 Release:	3
@@ -29,11 +29,11 @@ replacing IPTC header fields back into image files.
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
+%description -l pl.UTF-8
 Ten pakiet dostarcza mechanizm do modyfikowania informacji w
-nag丑wkach IPTC. Klasa abstrahuje funkcjonalno舵 iptcembed() i
-iptcparse() jako dodatek do metod w砤禼iwie obs硊guj眂ych podstawianie
-p髄 nag丑wka IPTC w plikach obrazk體.
+nag艂贸wkach IPTC. Klasa abstrahuje funkcjonalno艣膰 iptcembed() i
+iptcparse() jako dodatek do metod w艂a艣ciwie obs艂uguj膮cych podstawianie
+p贸l nag艂贸wka IPTC w plikach obrazk贸w.
 
 Ta klasa ma w PEAR status: %{_status}.
 
