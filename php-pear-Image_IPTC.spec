@@ -5,7 +5,7 @@
 %define		_pearname	%{_class}_%{_subclass}
 
 Summary:	%{_pearname} - extract, modify, and save IPTC data
-Summary(pl.UTF-8):   %{_pearname} - wyciąganie, modyfikowanie i zapisywanie danych IPTC
+Summary(pl.UTF-8):	%{_pearname} - wyciąganie, modyfikowanie i zapisywanie danych IPTC
 Name:		php-pear-%{_pearname}
 Version:	1.0.2
 Release:	3
