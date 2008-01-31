@@ -8,7 +8,7 @@ Summary:	%{_pearname} - extract, modify, and save IPTC data
 Summary(pl.UTF-8):	%{_pearname} - wyciąganie, modyfikowanie i zapisywanie danych IPTC
 Name:		php-pear-%{_pearname}
 Version:	1.0.2
-Release:	3
+Release:	4
 License:	PHP 2.02
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
